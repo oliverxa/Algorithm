@@ -1,0 +1,9 @@
+并查集入门：
+https://blog.csdn.net/luomingjun12315/article/details/47373345
+习题链接：
+1.畅通工程
+http://acm.hdu.edu.cn/showproblem.php?pid=1232
+2.How Many Tables
+http://acm.hdu.edu.cn/showproblem.php?pid=1213
+3.食物链
+http://poj.org/problem?id=1182

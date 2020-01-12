@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1566564846 source:f:\algorithm\code\yitu_2\main.cpp
+	<iostream>
+	<cstdio>
+	<algorithm>
+	<cstring>
+	<queue>
+	<stack>
+	<vector>
+	<string.h>
+	<map>
+	<cmath>
+

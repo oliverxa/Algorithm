@@ -1,0 +1,6 @@
+最小生成树Kruskal入门：
+https://blog.csdn.net/luomingjun12315/article/details/47700237
+时间复杂度NlogN
+习题链接：
+畅通工程 
+http://acm.hdu.edu.cn/showproblem.php?pid=1863

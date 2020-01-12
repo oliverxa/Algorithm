@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1566908264 source:f:\algorithm\code\didi_1\main.cpp
+	<iostream>
+	<queue>
+

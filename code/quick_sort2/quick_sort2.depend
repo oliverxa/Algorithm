@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1554281614 source:f:\algorithm\code\quick_sort2\main.cpp
+	<iostream>
+	<stdio.h>
+	<algorithm>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1566560432 source:f:\algorithm\code\yitu_1\main.cpp
+	<iostream>
+	<vector>
+

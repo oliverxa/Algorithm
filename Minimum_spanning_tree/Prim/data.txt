@@ -1,0 +1,9 @@
+Prim算法基础：
+https://blog.csdn.net/luomingjun12315/article/details/47859993
+时间复杂度为O(|V|2 + |E|)
+如果我们使用二叉堆来实现查找距离集合Vnew的最小值，则时间复杂度为O(|E| log |V| )。
+如果使用斐波那契堆优化的话，那么时间复杂度将可以近一步优化为O(|E| + |V | log|V|)。
+
+
+
+
